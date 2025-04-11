@@ -1,4 +1,4 @@
-# Final Year Project - ThirftEasy - Manish Kumar (1812157) & Hassaan Ali (1812152)
+# Final Year Project - ThirftEasy - Manish Kumar (1812157)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
